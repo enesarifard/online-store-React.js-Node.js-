@@ -1,6 +1,3 @@
-
-<meta property='og:image' content='src/assets/online1.png'/>
-
 ![Logo](src/assets/online1.png)
 _______________________________________________________________________________________
 
